@@ -1,21 +1,23 @@
 {
+  "owners": [
+    { "id": 123456789, "name": "Owner 1" },
+    { "id": 987654321, "name": "Owner 2" }
+  ],
   "admins": [
-    { "id": 123456789, "name": "Erlangga Dev" }
+    { "id": 123123123, "name": "Admin A" }
   ],
   "resellers": [
-    { "id": 987654321, "name": "Rudi Reseller", "quota": 50 }
+    { "id": 456456456, "name": "Reseller X" }
   ],
   "moderators": [
-    { "id": 11112222, "name": "Moderator1" }
+    { "id": 789789789, "name": "Mod B" }
   ],
   "ceos": [
-    { "id": 33334444, "name": "CeoUser" }
-  ],
-  "owners": [
-    { "id": 55556666, "name": "BigBoss" }
+    { "id": 1122334455, "name": "CEO C" }
   ],
   "tokens": [
-    "token_abc123",
-    "token_xyz456"
+    "tokentest123",
+    "abcdef123456",
+    "zyx098"
   ]
 }
