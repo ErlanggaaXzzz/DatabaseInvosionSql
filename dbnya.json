@@ -1,6 +1,21 @@
 {
+  "admins": [
+    { "id": 123456789, "name": "Erlangga Dev" }
+  ],
+  "resellers": [
+    { "id": 987654321, "name": "Rudi Reseller", "quota": 50 }
+  ],
+  "moderators": [
+    { "id": 11112222, "name": "Moderator1" }
+  ],
+  "ceos": [
+    { "id": 33334444, "name": "CeoUser" }
+  ],
+  "owners": [
+    { "id": 55556666, "name": "BigBoss" }
+  ],
   "tokens": [
-    "token_1234567890abcdef",
-    "token_abcdef0987654321"
+    "token_abc123",
+    "token_xyz456"
   ]
 }
